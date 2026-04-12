@@ -13,6 +13,10 @@
 ---
 
 ### 📈 Головні інсайти та візуалізація:
+📊 Інтерактивна візуалізація:
+> 💡 **Порада:** Для глибокого аналізу та взаємодії з даними (масштабування, перегляд значень SKU при наведенні) використовуйте інтерактивну версію звіту.
+
+🔗 **[ВІДКРИТИ ІНТЕРАКТИВНИЙ ЗВІТ (NBViewer)](https://nbviewer.org/github/IvanRadelytskyi/-High-Dimensional-Supply-Chain-Inventory-Dataset/blob/main/High-Dimensional%20Supply%20Chain%20Inventory%20Dataset.ipynb)**
 
 #### 1.1 Аналіз взаємозв'язку продажів та запасів (Bubble Chart)
 ![Bubble Chart](https://github.com/IvanRadelytskyi/-High-Dimensional-Supply-Chain-Inventory-Dataset/blob/main/%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7%D1%83%20%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%96%D0%B2.png)
