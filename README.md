@@ -50,4 +50,4 @@
 *Під час роботи над архітектурою висновків, структуруванням даних та фіналізацією бізнес-звіту я використовував **Gemini** як інтелектуального асистента (Exoskeleton mode). Це дозволило швидше валідувати математичні аномалії та сфокусуватися на стратегічних рекомендаціях для бізнесу.*
 
 ---
-🔗 **[Мій LinkedIn](in/ivan-radelytskyi-data-analyst](https://www.linkedin.com/in/ivan-radelytskyi-data-analyst)** | 📧 **Email:** (mamba1334@gmail.com)
+🔗 **[Мій LinkedIn](https://www.linkedin.com/in/ivan-radelytskyi-data-analyst)** | 📧 **Email:** (mamba1334@gmail.com)
