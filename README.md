@@ -16,6 +16,8 @@
 📊 Інтерактивна візуалізація:
 > 💡 **Порада:** Для глибокого аналізу та взаємодії з даними (масштабування, перегляд значень SKU при наведенні) використовуйте інтерактивну версію звіту.
 
+**🔗 Інтерактивний дашборд у Tableau:** [Відкрити Supply Chain Analytics Dashboard](https://public.tableau.com/views/Book2_17789637453180/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 🔗 **[ВІДКРИТИ ІНТЕРАКТИВНИЙ ЗВІТ (NBViewer)](https://nbviewer.org/github/IvanRadelytskyi/-High-Dimensional-Supply-Chain-Inventory-Dataset/blob/main/High-Dimensional%20Supply%20Chain%20Inventory%20Dataset.ipynb)**
 
 #### 1.1 Аналіз взаємозв'язку продажів та запасів (Bubble Chart)
