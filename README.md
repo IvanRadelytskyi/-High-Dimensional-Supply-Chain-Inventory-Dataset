@@ -71,6 +71,19 @@
 
 ---
 
+## 🕵️‍♂️ Data Quality Assurance Case: Row-Level Calculation Trap vs. True Business Impact
+
+> ⚠️ **Note on Resume Discrepancy:** Initial exploratory analysis in Python (as stated in the early version of the project/resume) pointed to warehouse **WH_1** as an underperformer with a **$827.8 profit gap**. However, comprehensive pipeline validation and daily aggregation in BI completely disproved this.
+
+**❌ The Mistake (Early Row-Level Grain):**
+The initial linear analysis in Jupyter Notebook calculated indices directly at the row-level without dynamic time-slice validation. When brought into BI, it created mathematical noise based on transaction volume, falsely flagging WH_1.
+
+**✅ The Fix (Daily Cost-Based Overstock Model):**
+We abandoned abstract indexing and deployed a rigorous financial model checking daily stock levels against a 50% demand buffer, evaluating tied-up capital directly by `Unit_Cost`.
+
+**Final Verdict:** 
+Warehouse **WH_1** is stable and operates within perfect parameters. The real financial drain is **WH_2**, which suffers from systemic overstocking, freezing an average of **$6,378 of dead liquidity per SKU**.
+
 ## 🕵️‍♂️ Кейс Data Quality Assurance: Пастка неагрегованих обчислень та сліпого переносу коду
 
 Найважливішим інженерним результатом проєкту став повний перегляд ранніх висновків через виявлення помилки розрахунку гранулярності даних (Data Grain).
