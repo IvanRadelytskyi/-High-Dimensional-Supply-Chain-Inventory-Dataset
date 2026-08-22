@@ -18,7 +18,7 @@
 
 > 💡 **Для глибокого аналізу та взаємодії з даними використовуйте інтерактивні версії звітів за посиланнями ниже.** 
 
-* **🔗 [ВІДКРИТИ ІНТЕРАКТИВНИЙ ДАШБОРД У TABLEAU PUBLIC](https://public.tableau.com/views/Book2_17789637453180/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+* **🔗 [ВІДКРИТИ ІНТЕРАКТИВНИЙ ДАШБОРД У TABLEAU PUBLIC](https://public.tableau.com/views/Book2_17789637453180/SupplyChainInventoryPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 * **🔗 [ВІДКРИТИ ІНТЕРАКТИВНИЙ ЗВІТ PYTHON (NBViewer)](https://nbviewer.org/github/IvanRadelytskyi/-High-Dimensional-Supply-Chain-Inventory-Dataset/blob/main/High-Dimensional%20Supply%20Chain%20Inventory%20Dataset.ipynb)**
 
 ---
